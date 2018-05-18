@@ -1,12 +1,11 @@
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Toolkit;
-import java.io.Serializable;
 import java.util.ArrayList;
 import javax.swing.JFrame;
 
 
-public class VentanaJuego extends JFrame implements Runnable, Serializable
+public class VentanaJuego extends JFrame implements Runnable
 {
 	private static final int ANCHO = 500;
 	private static final int ALTO = 500;

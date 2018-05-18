@@ -1,3 +1,5 @@
 # AnimacionPelotas
 
-Implementacion de un GameLoop para realizar algunos renders (dibuja dos pelotas con animacion).
+Implementacion de un GameLoop, para realizar animacion con pelotas.
+
+Al oprimir la tecla espacio genera pelotas con velocidades y colores diferentes.
